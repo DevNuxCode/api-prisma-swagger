@@ -4,6 +4,7 @@
   "description": "API for managing users, clients, and API keys",
   "main": "src/index.js",
   "type": "module",
+  "packageManager": "pnpm@7.5.1",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
